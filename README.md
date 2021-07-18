@@ -1,6 +1,6 @@
-<h1 align="center"> 
+<h2 align="center"> 
     Welcome to my GitHub
-</h1>
+</h2>
 
 ## Abstract: 
 - 👋 I am **Mateus Victor**.
