@@ -1,6 +1,6 @@
-<h2 align="center"> 
+<h1 align="center"> 
     Welcome to my GitHub
-</h2>
+</h1>
 
 ## Abstract: 
 - 👋 I am **Mateus Victor**.
@@ -40,9 +40,5 @@
     &emsp;&emsp;&emsp;
     <a href="mailto:mateus_victors@outlook.com" target="_blank">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </a>
-    &emsp;&emsp;&emsp;
-    <a href="https://instagram.com/mateus.vts" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
 </p>
