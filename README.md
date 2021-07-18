@@ -2,22 +2,6 @@
     Welcome to my GitHub
 </h1>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvictor&layout=compact&theme=algolia"
-      alt="Mateus's most used languages"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=mateusvictor&count_private=true&show_icons=true&include_all_commits=true&hide=issues&theme=algolia"
-      alt="Mateus's GitHub stats"/>
-  </a>
-</p>
-
 ## Abstract: 
 - 👋 I am **Mateus Victor**.
 - 📌 From São Paulo, Brazil.
