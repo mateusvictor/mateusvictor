@@ -5,7 +5,7 @@
 ## Abstract: 
 - 👋 I am **Mateus Victor**.
 - 📌 From São Paulo, Brazil.
-- 💼 Studying to be a Backend Software Engineer and focused on Algorithms/Data Structures to win the gold medal at OBI 2021.
+- 💼 Currently studying to be a Backend Software Engineer and having fun learning new things.
 - 💙 Passionate about logic, problem solving, databases design and RESTful API development.
 <hr>
 
