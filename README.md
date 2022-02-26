@@ -5,7 +5,7 @@
 ## Abstract: 
 - 👋 I am **Mateus Victor**.
 - 📌 From São Paulo, Brazil.
-- 💼 Currently studying to be a Backend Software Engineer and having fun learning new things.
+- 💼 Currently studying Backend Software Development and having fun learning new things.
 - 💙 Passionate about logic, problem solving, databases design and RESTful API development.
 <hr>
 
