@@ -9,6 +9,7 @@
 - 💙 Passionate about logic, problem solving, databases design and RESTful API development.
 <hr>
 
+<!--
 ## Skills:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,6 +28,7 @@
     &emsp;&emsp;&emsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
 </p>    
+-->
 
 ## Contact:
 <p align="center">
