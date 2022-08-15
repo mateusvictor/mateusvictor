@@ -5,9 +5,9 @@
 ## Abstract: 
 - 👋 I am **Mateus Victor**.
 - 📌 From São Paulo, Brazil.
-- 💼 Currently studying Backend Software Development and having fun learning new things.
-- 💙 Passionate about logic, problem solving, databases design and RESTful API development.
-<hr>
+- 📕 Majoring in Informational Systems at University of São Paulo (USP)
+- 💼 Currently working as a Backend Software Developer at Mercado Libre.
+- :infinity: In continuous learning about topics such as problem solving, algorithms, data structures and cloud solutions in general.
 
 <!--
 ## Skills:
